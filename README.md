@@ -56,3 +56,5 @@ git clone하여 코드 다운
 원본 github에 가서 각 모델을 다운받고 이미지등도 다운받는다.
 
 demo.ipynb가 이상하여 실행할수 있게 demo.ipynb와 demo.py를 만들었다.
+
+$$/begin{bmatrix} 2 & 3 \end(bmatrix}$$
